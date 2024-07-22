@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
 ## Array
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nihar021/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0948-sort-an-array](https://github.com/nihar021/leetcode/tree/master/0948-sort-an-array) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
