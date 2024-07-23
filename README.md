@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/nihar021/leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nihar021/leetcode/tree/master/0518-coin-change-ii) |
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/nihar021/leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
