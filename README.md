@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nihar021/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
 | [0556-next-greater-element-iii](https://github.com/nihar021/leetcode/tree/master/0556-next-greater-element-iii) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1508-longest-happy-prefix](https://github.com/nihar021/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Dynamic Programming
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/nihar021/leetcode/tree/master/0518-coin-change-ii) |
 | [0948-sort-an-array](https://github.com/nihar021/leetcode/tree/master/0948-sort-an-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar021/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Stack
 |  |
 | ------- |
