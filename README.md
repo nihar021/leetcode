@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
 | [0556-next-greater-element-iii](https://github.com/nihar021/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
 |  |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
