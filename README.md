@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/nihar021/leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/nihar021/leetcode/tree/master/0518-coin-change-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar021/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nihar021/leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nihar021/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nihar021/leetcode/tree/master/0518-coin-change-ii) |
@@ -113,8 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/nihar021/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
+| [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
