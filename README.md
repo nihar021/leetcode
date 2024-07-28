@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nihar021/leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/nihar021/leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nihar021/leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Stack
