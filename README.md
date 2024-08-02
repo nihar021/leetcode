@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nihar021/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/nihar021/leetcode/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar021/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar021/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nihar021/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nihar021/leetcode/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar021/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-koko-eating-bananas](https://github.com/nihar021/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/nihar021/leetcode/tree/master/0948-sort-an-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar021/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihar021/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nihar021/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
