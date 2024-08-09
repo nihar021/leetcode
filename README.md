@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/nihar021/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1508-longest-happy-prefix](https://github.com/nihar021/leetcode/tree/master/1508-longest-happy-prefix) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nihar021/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nihar021/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/nihar021/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nihar021/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String Matching
 |  |
