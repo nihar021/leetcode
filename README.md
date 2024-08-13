@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/nihar021/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nihar021/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nihar021/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nihar021/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar021/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nihar021/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nihar021/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nihar021/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nihar021/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
