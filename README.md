@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nihar021/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/nihar021/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nihar021/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nihar021/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nihar021/leetcode/tree/master/0063-unique-paths-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nihar021/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihar021/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/nihar021/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/nihar021/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nihar021/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/nihar021/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/nihar021/leetcode/tree/master/0063-unique-paths-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nihar021/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/nihar021/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
