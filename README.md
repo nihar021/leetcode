@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/nihar021/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nihar021/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nihar021/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/nihar021/leetcode/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar021/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nihar021/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nihar021/leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/nihar021/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0733-flood-fill](https://github.com/nihar021/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/nihar021/leetcode/tree/master/1073-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nihar021/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nihar021/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/nihar021/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/nihar021/leetcode/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/nihar021/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/nihar021/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Sliding Window
@@ -320,8 +323,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nihar021/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nihar021/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/nihar021/leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nihar021/leetcode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/nihar021/leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
