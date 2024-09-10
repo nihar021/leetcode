@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihar021/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar021/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nihar021/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nihar021/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar021/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/nihar021/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nihar021/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/nihar021/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/nihar021/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nihar021/leetcode/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/nihar021/leetcode/tree/master/0948-sort-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nihar021/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
