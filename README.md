@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/nihar021/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/nihar021/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/nihar021/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nihar021/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nihar021/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihar021/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihar021/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihar021/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nihar021/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/nihar021/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/nihar021/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nihar021/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nihar021/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/nihar021/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/nihar021/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
