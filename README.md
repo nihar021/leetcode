@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nihar021/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/nihar021/leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
 | [0368-largest-divisible-subset](https://github.com/nihar021/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nihar021/leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/nihar021/leetcode/tree/master/0146-lru-cache) |
 | [1484-linked-list-in-binary-tree](https://github.com/nihar021/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Doubly-Linked List
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/nihar021/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nihar021/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
