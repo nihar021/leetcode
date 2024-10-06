@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/nihar021/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nihar021/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1694-make-sum-divisible-by-p](https://github.com/nihar021/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1753-path-with-minimum-effort](https://github.com/nihar021/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/nihar021/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/nihar021/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nihar021/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/nihar021/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/nihar021/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nihar021/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nihar021/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/nihar021/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Simulation
 |  |
 | ------- |
