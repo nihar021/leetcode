@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nihar021/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/nihar021/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/nihar021/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/nihar021/leetcode/tree/master/0127-word-ladder) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nihar021/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/nihar021/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nihar021/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nihar021/leetcode/tree/master/0055-jump-game) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nihar021/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/nihar021/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nihar021/leetcode/tree/master/0503-next-greater-element-ii) |
