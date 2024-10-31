@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihar021/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihar021/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nihar021/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/nihar021/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nihar021/leetcode/tree/master/0130-surrounded-regions) |
 | [0140-word-break-ii](https://github.com/nihar021/leetcode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/nihar021/leetcode/tree/master/0162-find-peak-element) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nihar021/leetcode/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/nihar021/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/nihar021/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/nihar021/leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/nihar021/leetcode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihar021/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nihar021/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nihar021/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nihar021/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nihar021/leetcode/tree/master/0547-number-of-provinces) |
