@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nihar021/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/nihar021/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/nihar021/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nihar021/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/nihar021/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/nihar021/leetcode/tree/master/0127-word-ladder) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihar021/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/nihar021/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/nihar021/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nihar021/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nihar021/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nihar021/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/nihar021/leetcode/tree/master/0057-insert-interval) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nihar021/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nihar021/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/nihar021/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/nihar021/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/nihar021/leetcode/tree/master/0140-word-break-ii) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nihar021/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/nihar021/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihar021/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/nihar021/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/nihar021/leetcode/tree/master/0721-accounts-merge) |
