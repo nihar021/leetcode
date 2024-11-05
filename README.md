@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/nihar021/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0468-validate-ip-address](https://github.com/nihar021/leetcode/tree/master/0468-validate-ip-address) |
 | [0556-next-greater-element-iii](https://github.com/nihar021/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/nihar021/leetcode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/nihar021/leetcode/tree/master/0721-accounts-merge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nihar021/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1508-longest-happy-prefix](https://github.com/nihar021/leetcode/tree/master/1508-longest-happy-prefix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/nihar021/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/nihar021/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nihar021/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/nihar021/leetcode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/nihar021/leetcode/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/nihar021/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nihar021/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihar021/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nihar021/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/nihar021/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/nihar021/leetcode/tree/master/0567-permutation-in-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nihar021/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nihar021/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihar021/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nihar021/leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/nihar021/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nihar021/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nihar021/leetcode/tree/master/1046-max-consecutive-ones-iii) |
