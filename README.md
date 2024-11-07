@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/nihar021/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2591-frog-jump-ii](https://github.com/nihar021/leetcode/tree/master/2591-frog-jump-ii) |
 | [2737-row-with-maximum-ones](https://github.com/nihar021/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3291-find-if-array-can-be-sorted](https://github.com/nihar021/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nihar021/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nihar021/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nihar021/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/nihar021/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/nihar021/leetcode/tree/master/0089-gray-code) |
 | [0473-matchsticks-to-square](https://github.com/nihar021/leetcode/tree/master/0473-matchsticks-to-square) |
+| [3291-find-if-array-can-be-sorted](https://github.com/nihar021/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bitmask
 |  |
 | ------- |
